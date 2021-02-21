@@ -1,0 +1,6 @@
+C:\Users\Mina Totio\Desktop\programming\Assesment1\Exercise3\Exercise3\obj\Debug\Exercise3.csprojAssemblyReference.cache
+C:\Users\Mina Totio\Desktop\programming\Assesment1\Exercise3\Exercise3\bin\Debug\Exercise3.exe.config
+C:\Users\Mina Totio\Desktop\programming\Assesment1\Exercise3\Exercise3\bin\Debug\Exercise3.exe
+C:\Users\Mina Totio\Desktop\programming\Assesment1\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+C:\Users\Mina Totio\Desktop\programming\Assesment1\Exercise3\Exercise3\obj\Debug\Exercise3.exe
+C:\Users\Mina Totio\Desktop\programming\Assesment1\Exercise3\Exercise3\obj\Debug\Exercise3.pdb
